@@ -1,36 +1,164 @@
 {
   "Productos": [
     {
-      "id": 0,
-      "clase": "componente",
-      "nombre": "GeForce RTX 3080",
-      "precio": 800,
-      "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/14-137-712-S07.jpg",
-      "cantidad": 3
+        "id": 0,
+        "clase": "componente",
+        "nombre": "GeForce RTX 3080",
+        "precio": 800,
+        "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/14-137-712-S07.jpg",
+        "cantidad": 3
     },
     {
-      "id": 1,
-      "clase": "componente",
-      "nombre": "Ryzen 7 5800X",
-      "precio": 400,
-      "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/19-113-665-V01.jpg",
-      "cantidad": 7
+        "id": 1,
+        "clase": "componente",
+        "nombre": "Ryzen 7 5800X",
+        "precio": 400,
+        "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/19-113-665-V01.jpg",
+        "cantidad": 7
     },
     {
-      "id": 2,
-      "clase": "periferico",
-      "nombre": "HyperX Cloud II",
-      "precio": 69,
-      "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/A6ZPD2201270YCYQYD6.jpg",
-      "cantidad": 15
+        "id": 2,
+        "clase": "periferico",
+        "nombre": "HyperX Cloud II",
+        "precio": 69,
+        "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/A6ZPD2201270YCYQYD6.jpg",
+        "cantidad": 15
     },
     {
-      "id": 3,
-      "clase": "accesorio",
-      "nombre": "Black & White Mousepad",
-      "precio": 15,
-      "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/ASSAD211019A23JC.jpg",
-      "cantidad": 30
+        "id": 3,
+        "clase": "accesorio",
+        "nombre": "Black & White Mousepad",
+        "precio": 15,
+        "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/ASSAD211019A23JC.jpg",
+        "cantidad": 30
+    },
+    {
+        "id": 4,
+        "clase": "accesorio",
+        "nombre": "KILLABEE Gaming Chair",
+        "precio": 200,
+        "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/AXKAS2203070HGA1M9D.jpg",
+        "cantidad": 6
+    },
+    {
+        "id": 5,
+        "clase": "periferico",
+        "nombre": "TKL KITCOM NK60T ",
+        "precio": 34,
+        "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/ATSKS211116lSGVT.jpg",
+        "cantidad": 13
+    },
+    {
+        "id": 6,
+        "clase": "periferico",
+        "nombre": "AUKEY Mechanical Gaming Keyboard",
+        "precio": 29,
+        "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/AJ9KD201113ETNHY.jpg",
+        "cantidad": 9
+    },
+    {
+        "id": 7,
+        "clase": "periferico",
+        "nombre": "Logitech MX Master",
+        "precio": 62,
+        "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/26-197-312-S02.jpg",
+        "cantidad": 5
+    },
+    {
+        "id": 8,
+        "clase": "periferico",
+        "nombre": "EVGA X17 Gaming Mouse",
+        "precio": 19,
+        "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/26-188-009-V01.jpg",
+        "cantidad": 17
+    },
+    {
+        "id": 9,
+        "clase": "accesorio",
+        "nombre": "Keyboard Wrist Rest Pad",
+        "precio": 9,
+        "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/A4RE_131369839970942521RkyRJj5Vqz.jpg",
+        "cantidad": 28
+    },
+    {
+        "id": 10,
+        "clase": "accesorio",
+        "nombre": "RGB Gaming Mouse Pad",
+        "precio": 44,
+        "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/A7WMD21070693KMI.jpg",
+        "cantidad": 2
+    },
+    {
+        "id": 11,
+        "clase": "accesorio",
+        "nombre": "Corsair iCUE LS100 Smart Lighting Strip",
+        "precio": 79,
+        "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/11-978-028-01.jpg",
+        "cantidad": 14
+    },
+    {
+        "id": 12,
+        "clase": "componente",
+        "nombre": "CORSAIR Vengeance RGB RT 32GB",
+        "precio": 119,
+        "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/20-236-786-V01.jpg",
+        "cantidad": 20
+    },
+    {
+        "id": 13,
+        "clase": "componente",
+        "nombre": "ASUS ROG Crosshair VIII",
+        "precio": 461,
+        "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/13-119-362-V06.jpg",
+        "cantidad": 4
+    },
+    {
+        "id": 14,
+        "clase": "componente",
+        "nombre": "SAMSUNG 970 EVO PLUS M.2",
+        "precio": 189,
+        "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/20-147-744-V01.jpg",
+        "cantidad": 44
+    },
+    {
+        "id": 15,
+        "clase": "componente",
+        "nombre": "WD Red Plus 4TB NAS Hard Disk Drive",
+        "precio": 84,
+        "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/1B4-005X-001D3-V01.jpg",
+        "cantidad": 30
+    },
+    {
+        "id": 16,
+        "clase": "componente",
+        "nombre": "GIGABYTE Eagle OC GeForce RTX 3070",
+        "precio": 559,
+        "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/14-932-451-V06.jpg",
+        "cantidad": 5
+    },
+    {
+        "id": 17,
+        "clase": "componente",
+        "nombre": "EVGA 500 GD 80 PLUS GOLD ",
+        "precio": 55,
+        "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/17-438-158-V01.jpg",
+        "cantidad": 38
+    },
+    {
+        "id": 19,
+        "clase": "accesorio",
+        "nombre": "CORSAIR iCUE LT100 Smart Lighting",
+        "precio": 129,
+        "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/26-816-163-V18.jpg",
+        "cantidad": 7
+    },
+    {
+        "id": 18,
+        "clase": "periferico",
+        "nombre": "GIGABYTE G27Q 27 144Hz 1440P Gaming Monitor",
+        "precio": 249,
+        "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/24-012-015-01.jpg",
+        "cantidad": 11
     }
-  ]
+]
 }
