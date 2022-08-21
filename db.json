@@ -1,0 +1,36 @@
+{
+  "Productos": [
+    {
+      "id": 0,
+      "clase": "componente",
+      "nombre": "GeForce RTX 3080",
+      "precio": 800,
+      "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/14-137-712-S07.jpg",
+      "cantidad": 3
+    },
+    {
+      "id": 1,
+      "clase": "componente",
+      "nombre": "Ryzen 7 5800X",
+      "precio": 400,
+      "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/19-113-665-V01.jpg",
+      "cantidad": 7
+    },
+    {
+      "id": 2,
+      "clase": "periferico",
+      "nombre": "HyperX Cloud II",
+      "precio": 69,
+      "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/A6ZPD2201270YCYQYD6.jpg",
+      "cantidad": 15
+    },
+    {
+      "id": 3,
+      "clase": "accesorio",
+      "nombre": "Black & White Mousepad",
+      "precio": 15,
+      "imagen": "https://c1.neweggimages.com/ProductImageCompressAll1280/ASSAD211019A23JC.jpg",
+      "cantidad": 30
+    }
+  ]
+}
